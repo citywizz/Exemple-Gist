@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    flex: 1 1 10rem;
+    flex: 1 1 80%;
     background-color: slategrey;
     color:#FFF;
     min-height:50vh;
@@ -25,7 +25,7 @@ body :nth-child(n){
 
 
 
-/* Skip to main content a11y */
+/* Skip to main content a11y
 
 
 a.skip-main {
